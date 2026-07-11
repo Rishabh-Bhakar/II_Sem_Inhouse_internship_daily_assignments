@@ -1,5 +1,5 @@
 <?php
-$students = ["Amit", "Neha", "Ravi"];
+$students = ["Rishabh", "Roshan", "Ramratan","Priyanshu","Prateek","Praveen"];
 ?>
 
 <ul>

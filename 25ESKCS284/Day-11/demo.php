@@ -1,7 +1,7 @@
 <?php session_start();
 $_SESSION['user'] = array(
-    "name" => "Mahesh",
-    "role" => "Admin",
+    "name" => "Rishabh",
+    "role" => "student",
     "city" => "Jaipur"
 );
 

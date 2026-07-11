@@ -1,6 +1,6 @@
 <?php session_start();
 $count = 1;
-$_SESSION['user'] = "Mahesh";
+$_SESSION['user'] = "Rishabh";
 echo "<h3>Normal Variable</h3>";
 echo $count;
 echo "<br><br>";
